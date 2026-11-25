@@ -9,7 +9,7 @@ An integrated personal finance app (UI in Portuguese) with username/password sig
 Requirements: Node.js 24 LTS, npm and Git. Node 24 also provides the SQLite used by the integration tests.
 
 ```powershell
-git clone https://github.com/UchoaEng/Findash.git
+git clone https://github.com/UxUchoa/Findash.git
 cd Findash
 npm ci
 npm run build
@@ -102,7 +102,7 @@ Aplicação integrada em português, com cadastro por usuário/senha, recuperaç
 Requisitos: Node.js 24 LTS, npm e Git. O Node 24 também fornece o SQLite usado nos testes de integração.
 
 ```powershell
-git clone https://github.com/UchoaEng/Findash.git
+git clone https://github.com/UxUchoa/Findash.git
 cd Findash
 npm ci
 npm run build
